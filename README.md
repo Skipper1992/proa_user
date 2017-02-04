@@ -1,5 +1,7 @@
 # ProaUser
 
+[![Build Status](https://travis-ci.org/Skipper1992/proa_user.svg?branch=master)](https://travis-ci.org/Skipper1992/proa_user)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
