@@ -14,6 +14,6 @@ config :phoenix_trello, PhoenixTrello.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "",
-  database: "phoenix_trello_test",
+  database: "proa_user_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
